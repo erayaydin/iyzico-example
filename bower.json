@@ -1,0 +1,24 @@
+{
+  "name": "iyzico-example",
+  "authors": [
+    "Eray AYDIN <erayaydin2016@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "handlebars": "^4.0.12"
+  }
+}

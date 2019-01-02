@@ -1,0 +1,13 @@
+{
+    "name": "erayaydin/iyzipay-3d-example",
+    "authors": [
+        {
+            "name": "Eray AYDIN",
+            "email": "erayaydin2016@gmail.com"
+        }
+    ],
+    "require": {
+        "iyzico/iyzipay-php": "^2.0",
+        "ext-pdo": "*"
+    }
+}
